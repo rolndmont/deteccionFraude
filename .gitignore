@@ -1,0 +1,6 @@
+.venv
+./venv
+
+*.zip
+*.tar.gz
+*.egg-info
